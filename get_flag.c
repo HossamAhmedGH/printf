@@ -22,7 +22,7 @@ break;
 case '#':
 f->hash = 1;
 i = 1;
-break
+break;
 }
 return (i);
 }
